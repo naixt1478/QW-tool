@@ -3,6 +3,9 @@
 
 목록
 -----
+### 이미지 관련 툴
+![rufus](https://github.com/pbatard/rufus) (GPL.v3)
+
 ### 윈도우 관리 툴  
 ![Process hacker](https://github.com/processhacker/processhacker) (GPL.v3)  
 ![Hard_Configurator](https://github.com/AndyFul/Hard_Configurator) by AndyFul   
